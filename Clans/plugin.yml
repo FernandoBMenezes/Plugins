@@ -1,0 +1,13 @@
+ name: Clans
+ version: 0.0.4
+ description: Este plugin serve para se unir com amigos para vencer os oponentes.
+ author: Monderdragon
+ main: me.monderdragon.Clans.Inicio.Iniciar
+ 
+ commands:
+   Clans:
+     description: Comando para se aliar.
+   Clan:
+     description: Comando para se aliar.
+   C:
+     description: Comando para se aliar.
