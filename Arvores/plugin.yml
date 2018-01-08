@@ -1,0 +1,10 @@
+name: Arvores
+main: me.monderdragon.Arvores.Inicio.Main
+version: 0.0.1
+commands:
+  arvore:
+      description: Colocar arvores.
+  retirar:
+      description: Retirar arvores.
+  base:
+      description: Base da arvore.
