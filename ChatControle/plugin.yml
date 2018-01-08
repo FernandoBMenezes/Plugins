@@ -1,0 +1,9 @@
+ name: ChatControle
+ version: 0.0.4
+ description: Sistema de chat especial para o LoockCraft.
+ author: Monderdragon
+ main: me.monderdragon.ChatControle.Inicio.Iniciar
+ 
+ commands:
+   silencio:
+     description: Para mutar o chat.
