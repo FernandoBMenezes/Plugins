@@ -1,0 +1,9 @@
+ name: Mercantes
+ version: 1.0.1
+ description: Este plugin.
+ author: Monderdragon
+ main: me.monderdragon.Mercantes.Inicio.Inicio
+ 
+ commands:
+   loja:
+     description: Comando para criar e ver saldo da conta.

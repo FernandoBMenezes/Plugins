@@ -1,0 +1,7 @@
+ name: TabControle
+ version: 0.0.1
+ description: Este plugin.
+ author: Monderdragon
+ main: me.monderdragon.TabControle.Inicio.Iniciar
+ 
+ commands:

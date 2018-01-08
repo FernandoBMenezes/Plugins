@@ -1,0 +1,17 @@
+ name: BancoCentral
+ version: 0.0.1
+ description: Este plugin.
+ author: Monderdragon
+ main: me.monderdragon.BancoCentral.Inicio.Banco
+ 
+ commands:
+   conta:
+     description: Comando para criar e ver saldo da conta.
+   saldo:
+     description: Comando para criar e ver saldo da conta.
+   pagar:
+     description: Comando para criar e ver saldo da conta.
+   comprar:
+     description: Comando para criar e ver saldo da conta.
+   top:
+     description: Comando para criar e ver saldo da conta.

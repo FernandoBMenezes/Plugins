@@ -1,0 +1,15 @@
+name: MonderLogin
+version: 1.0
+description: Feito por monderdragon!
+author: Monderdragon
+ 
+main: me.monderdragon.Inicio.Inicio
+commands:
+  sentrada:
+      description: para marcar entrada
+  entrada:
+      description: para entrada
+  entrar:
+      description: para entrar
+  cadastrar:
+      description: para se cadastrar

@@ -1,0 +1,32 @@
+/kit
+/kit nb vip vip+
+/home
+/spawn
+/help
+/motd
+/tell
+/tpa
+/tpaccept
+/tpadenny
+/fly
+/jaild
+/warp
+/gamemode 1 2 3
+/hat
+/fix all
+/day /night
+/afk
+/itemdb /iteminfo
+/nick
+/setspawn
+/sethome
+/setwarp
+/setjail
+/ban
+/banip
+/kick
+/broadcast
+/clear
+/mute
+/tempban
+/back

@@ -1,0 +1,13 @@
+ name: Essencial
+ version: 0.0.1
+ description: Este plugin.
+ author: Monderdragon
+ main: me.monderdragon.Essencial.Inicio.Inicio
+ 
+ commands:
+   voltar:
+     description: Comando para voltar a 60s atras.
+   holograma:
+     description: para criar um holograma.
+   aleatorio:
+     description: para teleportar aleatoriamente.
